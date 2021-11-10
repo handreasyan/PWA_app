@@ -5,7 +5,7 @@
   "background_color": "#2196f3",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": ".",
+  "start_url": "./PWA_app/",
   "icons": [
     {
       "src": "/icons/app-icon-s.png",
