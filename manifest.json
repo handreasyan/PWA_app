@@ -1,0 +1,31 @@
+{
+  "name": "PWA COURSE APP",
+  "short_name": "PCA",
+  "theme_color": "#5642ba",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "/icons/app-icon-s.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app-icon-l.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app-icon-xl.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/app-icon-xxl.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
